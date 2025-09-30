@@ -1,7 +1,20 @@
 ## Hi there 👋
 
+About me :scream:
+
+My name is Rafael Mikolaski Belusso from Brazil (🇧🇷). I've been working as a System support since 2025 and currently I'm studying in Sagrado Coração de Jesus school
+
+In my free time I like to play (and watch) table tenis (🏆🏓), to watch soccer (⚽), to watch movies (🎞️) and series (📺), to play games (🎮) and to listen to music (🎵).
+
+
+# Would you like to find me?
+
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rafaelbelusso_)](https://instagram.com/rafaelbelusso_)
+
+
 <!--
-**Rafaelmbelusso/Rafaelmbelusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arielfelippi/arielfelippi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
