@@ -4,7 +4,7 @@ About me :scream:
 
 My name is Rafael Mikolaski Belusso from Brazil (🇧🇷). I've been working as a System support since 2025 and currently I'm studying in Sagrado Coração de Jesus school
 
-In my free time I like to play (and watch) table tenis (🏆🏓), to watch soccer (⚽), to watch movies (🎞️) and series (📺), to play games (🎮) and to listen to music (🎵).
+In my free time I like to play (and watch) table tenis (🏆🏓), to watch soccer (⚽), to watch movies (🎞️) and series (📺), play games (🎮) and to listen to music (🎵).
 
 
 
