@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-About me :scream:
+#### About me :scream:
 
 My name is Rafael Mikolaski Belusso from Brazil (🇧🇷). I've been working as a System support since 2025 and currently I'm studying in Sagrado Coração de Jesus school
 
@@ -8,11 +8,12 @@ In my free time I like to play (and watch) table tenis (🏆🏓), to watch socc
 
 
 
-# Would you like to find me?
+### Would you like to find me?
 
 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rafaelbelusso_)](https://instagram.com/rafaelbelusso_)
+
 
 
 <!--
@@ -27,5 +28,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...      
 -->
