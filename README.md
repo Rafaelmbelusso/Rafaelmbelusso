@@ -14,6 +14,8 @@ In my free time I like to play (and watch) table tenis (🏆🏓), to watch socc
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rafaelbelusso_)](https://instagram.com/rafaelbelusso_)
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCBBCtWSpQHMGnZbjnTRpmcfwHLxvRXJwBKdJMpxrlLQBtCsCqHWcbLksHHWGDSWlJpkkg)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCBBCtWSpQHMGnZbjnTRpmcfwHLxvRXJwBKdJMpxrlLQBtCsCqHWcbLksHHWGDSWlJpkkg)
+
 
 
 <!--
